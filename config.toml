@@ -1,3 +1,15 @@
-languageCode = "en-us"
-title = "My New Hugo Site"
-baseURL = "http://example.org/"
+languageCode = "en-ja"
+title = "sycx blog"
+baseURL = "http://ja.sycx.me/"
+author = "sycx"
+theme = "hyde"
+
+PygmentsCodeFences = true
+pygmentsStyle = "colorful"
+
+[params]
+layoutReverse = true
+themeColor = "theme-base-0c"
+description = "今日も一日がんばるぞい!"
+disqusShortname = "sycx"
+Author = "sycx"

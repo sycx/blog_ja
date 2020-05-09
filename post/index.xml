@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on sycx blog</title>
+    <link>https://ja.sycx.me/post/</link>
+    <description>Recent content in Posts on sycx blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-ja</language>
+    <lastBuildDate>Mon, 13 Mar 2017 22:12:54 +0800</lastBuildDate>
+    
+	<atom:link href="https://ja.sycx.me/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>こんにちは</title>
+      <link>https://ja.sycx.me/post/hello/</link>
+      <pubDate>Mon, 13 Mar 2017 22:12:54 +0800</pubDate>
+      
+      <guid>https://ja.sycx.me/post/hello/</guid>
+      <description>日本語のブログ</description>
+    </item>
+    
+  </channel>
+</rss>

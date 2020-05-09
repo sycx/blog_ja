@@ -1,6 +1,6 @@
 languageCode = "en-ja"
 title = "sycx blog"
-baseURL = "http://ja.sycx.me/"
+baseURL = "https://ja.sycx.me/"
 author = "sycx"
 theme = "hyde"
 
